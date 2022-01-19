@@ -15,8 +15,8 @@ var = 2
 # ==============================
 # ==============================
 
-username = "YOUR SMTP USERNAME"
-password= "YOUR SMTP PASSWORD"
+username = "mastercue"
+password= "20146586"
 
 # ==============================
 # ==============================
